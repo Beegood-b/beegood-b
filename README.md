@@ -29,6 +29,7 @@ Beyond the demands of management, I devote substantial time to learning <em>Fron
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=gulp" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=php" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=mysql" />&nbsp; &nbsp;
+<img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=wordpress" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=git" />&nbsp; &nbsp;
 	
 </div>
