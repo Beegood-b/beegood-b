@@ -39,4 +39,6 @@ A guy with a strong passion for creating modern, responsive web applications. My
 <br>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eab6def9d5223f7b47baae2397316496855e82ee260a72aab676b922939797be/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667"><img align="center" src="https://camo.githubusercontent.com/eab6def9d5223f7b47baae2397316496855e82ee260a72aab676b922939797be/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" alt="me in linkedin" height="auto" width="20" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/artjoms-bugajenkovs-032aa41a8/" rel="nofollow">LinkedIn</a> <br><br>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://repository-images.githubusercontent.com/584612363/dc5a8b7c-1706-4ab9-9ac0-6e7b834a90fd"><img align="center" src="https://repository-images.githubusercontent.com/584612363/dc5a8b7c-1706-4ab9-9ac0-6e7b834a90fd" alt="codewars profile" height="auto" width="20" style="max-width: 100%;"></a> <a href="https://www.codewars.com/users/Beegood-b" rel="nofollow">Codewars</a>
-</div>
+</div><br><br><br><br>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=beegood-b&abbreviated=true" /></div>
