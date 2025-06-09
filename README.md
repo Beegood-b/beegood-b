@@ -16,13 +16,14 @@ A guy with a strong passion for creating modern, responsive web applications. My
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=sass" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=bootstrap" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=javascript" />&nbsp; &nbsp;
-<img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=typescript" />&nbsp; &nbsp;<br /><br />
-<img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=react" />&nbsp; &nbsp;
+<img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=typescript" />&nbsp; &nbsp;
+<img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=react" />&nbsp; &nbsp;<br /><br />
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=redux" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=vite" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=gulp" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=php" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=mysql" />&nbsp; &nbsp;
+<img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=laravel" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=wordpress" />&nbsp; &nbsp;
 <img align="center" alt="Git" width="40px" style="padding-right:10px" src="https://skillicons.dev/icons?i=git" />&nbsp; &nbsp;
 </div>
@@ -30,7 +31,7 @@ A guy with a strong passion for creating modern, responsive web applications. My
 #
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beegood-b&theme=transparent&layout=donut"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beegood-b&theme=transparent&layout=donut&v=1"/>
 </div> 
 
 #
@@ -38,7 +39,10 @@ A guy with a strong passion for creating modern, responsive web applications. My
 <div align="center"><h4>Let's Connect! 📱</h4>
 <br>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/eab6def9d5223f7b47baae2397316496855e82ee260a72aab676b922939797be/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667"><img align="center" src="https://camo.githubusercontent.com/eab6def9d5223f7b47baae2397316496855e82ee260a72aab676b922939797be/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e6b6564696e2f6c696e6b6564696e2d6f726967696e616c2e737667" alt="me in linkedin" height="auto" width="20" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/artjoms-bugajenkovs-032aa41a8/" rel="nofollow">LinkedIn</a> <br><br>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://repository-images.githubusercontent.com/584612363/dc5a8b7c-1706-4ab9-9ac0-6e7b834a90fd"><img align="center" src="https://repository-images.githubusercontent.com/584612363/dc5a8b7c-1706-4ab9-9ac0-6e7b834a90fd" alt="codewars profile" height="auto" width="20" style="max-width: 100%;"></a> <a href="https://www.codewars.com/users/Beegood-b" rel="nofollow">Codewars</a>
+<a href="https://www.codewars.com/users/Beegood-b" rel="nofollow">
+  <img src="https://github.com/user-attachments/assets/b4379e92-f665-427e-8e3f-52851cee3f25" height="auto" width="22" alt="codewards-logo" />
+</a>
+<a href="https://www.codewars.com/users/Beegood-b" rel="nofollow">Codewars</a>
 </div><br><br><br><br>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=beegood-b&abbreviated=true" /></div>
